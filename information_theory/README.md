@@ -7,5 +7,5 @@ information theory is not just for communication systems.
 
 ## Book
 
-* notes: [note link]()
-* book: [book link]()
+* notes: [note link](information_theory/2022-07-10-notes.pages)
+* book: [book link](information_theory/elements-of-information-theory.pdf)
