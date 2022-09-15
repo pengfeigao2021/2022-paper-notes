@@ -13,3 +13,8 @@ classification error代表选错feature。这部分误差影响全局模型的�
 3. 2004 Randomized RANSAC with Td,d test
 4. 2018 Graph-Cut RANSAC
 5. 2008 (conf in ransac) Optimal Randomized RANSAC
+
+## RANSAC Methods
+
+### R-Ransac
+1. T(d,d): 随机选取d个点，d个点全部符合当前模型m，测试通过。优点：减少迭代次数。
